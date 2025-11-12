@@ -297,21 +297,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </body>
 </html>
 ```
-![Output](tugas.png)
+![Output](tugas_akhir.png)
 
 **Penjelasan:**
 - Menggunakan `DateTime` untuk menghitung umur.  
 - Menggunakan `switch` untuk menentukan gaji berdasarkan pekerjaan.  
 - Menampilkan hasil input dalam bentuk teks HTML.
-
----
-
-##  Kesimpulan
-Melalui praktikum ini, saya memahami:
-- PHP dijalankan di sisi server (*Server Side Scripting*).  
-- Dasar penggunaan variabel, operator, kondisi, dan perulangan.  
-- Cara membuat aplikasi sederhana berbasis form input.  
-- Logika menghitung umur dan gaji dari data pengguna.  
 
 ---
 
